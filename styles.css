@@ -1,0 +1,76 @@
+img {
+    width: 200px;
+}
+
+img:hover {
+    border: 5px blue;
+}
+
+.nav {
+    display: flex;
+    justify-content: flex-start;
+    background-color: white;
+}
+
+div {
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid black;
+}
+
+.name {
+    text-align: center;
+    background-color: white;
+}
+
+.quotes {
+    width: 200px;
+    border: 0px;
+    flex-direction: column;
+}
+
+.friends {
+    width: 200px;
+    border: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.visuals {
+    width: 300px;
+    text-align: center;
+    border: 0px;
+    flex-direction: column;
+}
+
+.time {
+    font-style: italic;
+}
+
+.cap {
+    font-style: oblique;
+    font-size: 20px;
+    text-align: center;
+}
+
+.item {
+    width: 200px;
+    text-align: center;
+}
+
+body {
+    background-color: #A1CAF1;
+    font-family: calibri;
+}
+
+.top {
+    border: 0px;
+}
+
+.fancy {
+    font-family: georgia;
+}
+
+.part{
+    font-style: oblique;
+}
